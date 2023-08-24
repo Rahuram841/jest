@@ -1,0 +1,6 @@
+{
+    "type": "sqlite",
+    "database": ":memory:",
+    "entities": ["Product"],
+    "synchronize": true
+  }
